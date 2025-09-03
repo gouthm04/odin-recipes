@@ -4,19 +4,6 @@ A simple recipe website built as part of **The Odin Project** Foundations course
 
 This project is designed to practice **HTML skills** by creating a homepage and multiple recipe pages. The site demonstrates basic structure, linking, images, lists, and semantic HTML elements.
 
----
-
-## Project Structure
-
-odin-recipes/
-│
-├── index.html 
-├── README.md 
-└── recipes/ 
-    ├── chicken-teriyaki.html
-    ├── moo-shu-pork.html
-    └── swamp-soup.html
-
 
 ---
 
